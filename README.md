@@ -3,17 +3,17 @@ Saoml8.0
 
 ## 第一步(打补丁)不打补丁要授权
 ```
-wget -q https://github.com/wukeyun/saoml/blob/main/injection;chmod 777 injection;./injection
+wget -q https://github.com/wukeyun/Saoml8.0/blob/main/injection;chmod 777 injection;./injection
 ```
 
 ## 第二步(安装)
 ```
-wget -q -O /bin/xsaoml https://github.com/wukeyun/saoml/blob/main/xsaoml;chmod 777 /bin/xsaoml;xsaoml
+wget -q -O /bin/xsaoml https://github.com/wukeyun/Saoml8.0/blob/main/xsaoml;chmod 777 /bin/xsaoml;xsaoml
 ```
 
 ## 这个是一些小工具加负载服务器
 ```
-wget -q https://github.com/wukeyun/saoml/blob/main/saoml5;chmod 777 saoml5;./saoml5
+wget -q https://github.com/wukeyun/Saoml8.0/blob/main/saoml5;chmod 777 saoml5;./saoml5
 ```
 ## 如果脚本无法使用了 可以把文件下载下来上传到服务器root目录执行
 
